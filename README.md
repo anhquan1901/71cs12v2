@@ -5,9 +5,6 @@
 huce
 
 
-<<<<<<< HEAD
 hello world("print")
 
 hello 71cs12
-=======
->>>>>>> 668f59bdf2166e6399e98e7fb562c0f91c7f17bf
