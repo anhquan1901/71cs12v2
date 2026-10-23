@@ -2,7 +2,7 @@ vinh bố đây là nhất ko thằng nào vượt mặt
 
 
 
-T bá khí nhất lớp CS
+
 
 
 ni hao
@@ -10,3 +10,4 @@ ni hao
 
 n
 kienhahhahah
+print(“python”)
