@@ -4,7 +4,6 @@
 # Vui trở lại khi đã có mạng và đẩy được code lên trên github
 huce
 
-
 hello world("print")
 
 hello 71cs12
