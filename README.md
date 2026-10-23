@@ -5,5 +5,4 @@
 # Vui trở lại khi đã có mạng và đẩy được code lên trên github
 
 
-hello world("print")
-hola amigo
+
