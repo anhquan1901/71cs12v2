@@ -4,8 +4,5 @@ huce
 
 hello world("print")
 
-hello 71cs12
-
-
-siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
-Nǐ hǎo ma?
+hello 
+fan messi người thanh hoá đi ba năm ở ba tư để bắt con ba ba
